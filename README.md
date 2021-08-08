@@ -16,7 +16,7 @@ This API is available at: https://chatclasschallenge.herokuapp.com.
 
 ## Running the API with docker:
 
-It is necessary to have [Docker] installed in your machine in order to run the following scripts:
+It is necessary to have [Docker] installed in your machine in order to run the following commands:
 
 To start the API:
 ```sh
@@ -29,7 +29,7 @@ docker-compose down
 
 ## Running the API without docker:
 
-It is necessary to have configure a .env file containning the following varibales:
+It is necessary to have a .env file containning the following variables:
 ```
 DB_URL=
 PORT=
