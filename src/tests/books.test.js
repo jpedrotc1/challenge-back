@@ -6,7 +6,7 @@ const request = require("supertest");
 const { Books } = require("./utils/samples");
 
 beforeAll(async () => {
-  await mongoose.connect(`mongodb://${process.env.DB_URL}`, {
+  await mongoose.connect(process.env.DB_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
