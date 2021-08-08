@@ -1,7 +1,7 @@
 # Backend-End Challenge
 ![alt tag](https://static.wixstatic.com/media/7f8adc_d803ec63e9e443a288209456ce076e0f~mv2.png/v1/fill/w_132,h_26,al_c,q_85,usm_0.66_1.00_0.01/ChatClass_logo.webp)
 
-ChatClass Back-End challange API implementation. There is a Postman collection and environment in docs folder. Import them in your Postman App to visualize the available endpoints. This API is available at: https://chatclasschallenge.herokuapp.com/
+ChatClass Back-End challange API implementation. There is a Postman collection and environment in docs folder. Import them in your Postman App to visualize the available endpoints. This API is available at: https://chatclasschallenge.herokuapp.com. Deployed using Heroku.
 
 ## Technologies used to implement the API:
 
