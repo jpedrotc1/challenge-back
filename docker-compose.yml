@@ -13,7 +13,7 @@ services:
     image: node:lts
     environment:
       DB_URL: mongodb://mongo-db:27017/ChatClass
-      APP_PORT: 3000
+      PORT: 3000
     container_name: nodejs-api
     restart: on-failure:10
     depends_on:
