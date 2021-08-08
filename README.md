@@ -32,7 +32,7 @@ docker-compose down
 It is necessary to have configure a .env file containning the following varibales:
 ```
 DB_URL=
-APP_PORT=
+PORT=
 ```
 To start the API:
 ```sh
